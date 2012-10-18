@@ -6,7 +6,7 @@ written in Ruby on Rails
 
 Simple web application demonstrating relations between data models ~ entities.
 
-=====================
+#########################################
 
 Initial push will commmence soon...
 
