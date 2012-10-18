@@ -1,7 +1,6 @@
-entity-relations-ror
+Enterprise Entities Relations Application
 ====================
 
-Enterprise Entitiy Relations 
 written in Ruby on Rails
 
 Simple web application demonstrating relations between data models ~ entities.
